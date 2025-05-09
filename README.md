@@ -36,7 +36,7 @@ The robot uses an ultrasonic sensor mounted on a servo motor to scan its environ
 - A push button toggles the robot's power state.
 
 ---
-## Logic Diagram
+## Flowchart
 
 Below is the logic used for decision-making when the robot encounters obstacles:
 
