@@ -1,4 +1,4 @@
-# Obstacle-Avoiding Robot Car (Arduino-Based)
+# Obstacle-Avoiding Robot Car 
 
 [![Arduino IDE](https://img.shields.io/badge/platform-Arduino_IDE-blue.svg)](https://www.arduino.cc/en/software)
 [![C++](https://img.shields.io/badge/language-C++-brightgreen.svg)]()
