@@ -40,7 +40,7 @@ The robot uses an ultrasonic sensor mounted on a servo motor to scan its environ
 
 Below is the logic used for decision-making when the robot encounters obstacles:
 
-![Flowchart](flowchart.png)
+![Flowchart](flowchart2.png)
 
 ---
 ## Software
